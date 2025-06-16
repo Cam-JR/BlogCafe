@@ -3,10 +3,6 @@
 Sitio web responsivo creado como proyecto de práctica para simular un blog sobre café. 
 El diseño se adapta a dispositivos móviles, tablets y computadoras, e incluye varias secciones informativas y una ventana de contacto funcional.
 
-## 📸 Captura de pantalla
-
-![Captura del Blog Café](https://raw.githubusercontent.com/Cam-JR/BlogCafe/master/blogcafe.png)
-
 # ✨ Funcionalidades
 
 - Diseño completamente responsive
